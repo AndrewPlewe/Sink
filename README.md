@@ -1,4 +1,4 @@
 Sink
 ====
 
-Sink is a very small, very light Javascript library that gives you complete control over javascript loading.
+Sink is a very small, very light Javascript library that gives you complete control over javascript loading. Stay tuned for further developments.
